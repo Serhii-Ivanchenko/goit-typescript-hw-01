@@ -8,7 +8,7 @@ interface IUser {
   };
 }
 
-const mango = {
+const mango: IUser = {
   name: "Mango",
   age: 30,
   email: "john@example.com",
@@ -18,7 +18,7 @@ const mango = {
   },
 };
 
-const poly = {
+const poly: IUser = {
   name: "Mango",
   age: 30,
   email: "john@example.com",
