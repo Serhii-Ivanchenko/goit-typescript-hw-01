@@ -1,5 +1,4 @@
 import './style.css'
-import callback from './basic/1'
 // import typescriptLogo from './typescript.svg'
 // import viteLogo from '/vite.svg'
 // import { setupCounter } from './counter.ts'
